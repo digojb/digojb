@@ -41,9 +41,8 @@
 
 <h2>🎑 Contacts:</h2>
 
-<a id="linkedin" href="https://www.linkedin.com/in/diogo-bernardo-6a56b9238/" target="_blank"></a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
-  <a href = "diogojbernardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <a id="linkedin" href="https://www.linkedin.com/in/diogo-bernardo-6a56b9238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
   </a>
 
 
