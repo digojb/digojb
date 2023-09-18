@@ -1,9 +1,10 @@
-<h1> Hi there, my name is Diogo! </h1>
+<h2> Hi there, my name is Diogo! </h2>
 <br>
 <p>👨🏼‍💻 I'm a student of information systems in Federal University of São Paulo. </p>
 <br>
 
-<h2>🚀 Skills:</h2>
+<h3>🚀 Skills:</h3>
+<hr>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -37,8 +38,8 @@
 </tr>
 </table><br><br>
 
-<h2>🎑 Contacts:</h2>
-
+<h3>🎑 Contacts:</h3>
+<hr>
  <a id="linkedin" href="https://www.linkedin.com/in/diogo-bernardo-6a56b9238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
   </a>
