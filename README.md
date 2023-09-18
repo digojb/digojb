@@ -3,7 +3,7 @@
 <br>
 
 
--👨🏼‍💻 I'm a student of information systems in Federal University of São Paulo. 
+&bull; 👨🏼‍💻 I'm a student of information systems in Federal University of São Paulo. 
 
 <br>
 <h2>🚀 Skills:</h2>
