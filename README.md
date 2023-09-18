@@ -1,9 +1,7 @@
-### Hi there, my name is Diogo!
-
-
--👨🏼‍💻 I'm a student of information systems in Federal University of São Paulo.
-
-##
+<h1> Hi there, my name is Diogo! </h1>
+<br>
+<p>👨🏼‍💻 I'm a student of information systems in Federal University of São Paulo. </p>
+<br>
 
 <h2>🚀 Skills:</h2>
 <table align="center">
