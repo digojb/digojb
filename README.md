@@ -1,4 +1,4 @@
-### Hi there, my name is Diogo! 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+my+name+is+Diogo!" alt="Typing SVG" /></a>
 <br>
 <p>👨🏼‍💻 I'm a student of information systems in Federal University of São Paulo. </p>
 <br>
