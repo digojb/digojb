@@ -8,5 +8,5 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,php,bootstrap,cpp,django,dotnet,flask,git,postgresql,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,php,js,html,css,bootstrap,django,flask,postgresql,git,cpp)](https://skillicons.dev)
 
